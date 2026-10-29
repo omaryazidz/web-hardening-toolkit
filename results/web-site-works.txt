@@ -1,0 +1,4 @@
+[PASS] Halaman utama tampil (HTTP 200)
+[PASS] Halaman artikel terbuka (HTTP 200)
+[PASS] Pencarian biasa tidak salah blokir (HTTP 200)
+[PASS] Halaman login terbuka (HTTP 200)

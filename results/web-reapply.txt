@@ -1,0 +1,3 @@
+  [PASS] PHP tidak bisa dijalankan dari folder uploads
+  [PASS] HTTP dialihkan ke HTTPS
+== Skor: 11/11 ==

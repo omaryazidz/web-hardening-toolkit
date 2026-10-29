@@ -1,0 +1,13 @@
+== Audit web web-lab-01 (nginx 1.24.0 (Ubuntu)) - 29 Oct 2026 03:10:34 UTC ==
+  [FAIL] Versi Nginx tidak terlihat di header Server
+  [FAIL] Security header lengkap (HSTS, CSP, X-Frame, dll)
+  [FAIL] TLS 1.0 & 1.1 ditolak (hanya TLS 1.2/1.3)
+  [FAIL] .env, .git, backup.sql tidak bisa diunduh
+  [FAIL] Directory listing dimatikan
+  [FAIL] xmlrpc.php diblokir (jalur brute force WordPress)
+  [FAIL] Daftar username WordPress tidak bocor
+  [FAIL] Rate limit di halaman login (anti brute force)
+  [FAIL] WAF (ModSecurity + OWASP CRS) memblokir SQLi & XSS
+  [FAIL] PHP tidak bisa dijalankan dari folder uploads
+  [FAIL] HTTP dialihkan ke HTTPS
+== Skor: 0/11 ==
